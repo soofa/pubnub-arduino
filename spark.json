@@ -2,6 +2,6 @@
   "name": "PubNub",
   "author": "Bob Breznak<bob@soofa.co>",
   "license": "PubNub License",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The Official PubNub Arduino-based API!"
 }
