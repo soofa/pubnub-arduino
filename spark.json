@@ -1,0 +1,7 @@
+{
+  "name": "PubNub",
+  "author": "Bob Breznak<bob@soofa.co>",
+  "license": "PubNub License",
+  "version": "0.0.2",
+  "description": "The Official PubNub Arduino-based API!"
+}
